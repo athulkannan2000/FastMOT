@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# Shell script to download data
 DIR=$HOME
 
 set -e
